@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(125, 255, 253);
+}
+p{
+    font-size: 14px;
+    color: rgb(97, 0, 97)
+}
+.Introduction{
+    color: rgb(6, 113, 6);
+}
+span{
+    color: yellow;
+}

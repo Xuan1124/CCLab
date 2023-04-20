@@ -1,0 +1,52 @@
+h1{
+    font-family: sans-serif;
+    color:aqua
+}
+.specialHighLight{
+    background-color: darkblue;
+    font-size: 50px;
+    border-width: 1px;
+    border-style: dashed;
+    border-color: white;
+    color: blueviolet;
+}
+.myImage{
+    width: 150px;
+    border: 0.5px black dashed;
+}
+.imageBox{
+    border-width: 1px;
+    border-style: dotted;
+    border-color: black;
+
+    padding: 15px;
+    margin: 10px;
+    /* margin-left: 80px; */
+    background-color: wheat;
+}
+
+.imageBox.div2{
+    background-color: peachpuff;
+    position: absolute;
+    top: 150px;
+    left: 300px;
+}
+.imageBox.div3{
+    position: fixed;
+    top: 50px;
+    left: 50px;
+}
+.imageBox.div4{
+    position: relative;
+    top: 25px;
+    left: 30px;
+}
+.imageBox.div5{
+    display: inline-block;
+}
+.imageBox.div6{
+    width: 600px;
+    margin: auto;
+}
+
+
