@@ -1,0 +1,29 @@
+body{
+    margin:0;
+    background-color: rgb(0, 0, 35);
+}
+h1{
+    letter-spacing: 1px;
+    font-style: italic;
+    margin-left: 600px;
+    color: paleturquoise;
+}
+.firey{
+    color: rgb(204, 51, 0);
+    font-style: oblique;
+    font-weight: bolder;
+}
+.Stars{
+    color: rgb(255, 255, 145);
+    font-style: oblique;
+}
+p{
+    color: powderblue;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 300px;
+}
+
+#canvasContainer{
+    margin-left: 100px;
+    border-color: aliceblue;
+}
